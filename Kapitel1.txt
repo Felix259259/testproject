@@ -1,3 +1,4 @@
 //Teständerung bla bla bla
 //Kommentar
-print("Code");
+var code = "neuer Code";
+print(code);
