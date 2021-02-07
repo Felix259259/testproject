@@ -13,3 +13,6 @@ print("laufen");
 
 //Funktion springen
 print("spirngen;
+
+//Funktion essen
+print("essen");
