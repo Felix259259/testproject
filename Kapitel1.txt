@@ -7,3 +7,6 @@ print("Unde hier noch ein zusatzhinweis!");
 
 print("value ", code);
 print("cod2e = ",code2);
+
+//Neue Funktion!
+print("Neue Funktion!");
