@@ -2,6 +2,7 @@
 //Kommentar
 var code = "neuer Code";
 print(code);
+print("Unde hier noch ein zusatzhinweis!");
 
 print("value ", code);
 print("code = ",code);
