@@ -12,7 +12,10 @@ print("cod2e = ",code2);
 print("laufen");
 
 //Funktion springen
-print("spirngen;
+print("spirngen");
+
+//Funktion gehen
+prin("springen");
 
 //Funktion essen
 print("essen");
