@@ -1,5 +1,7 @@
 //Teständerung bla bla bla
 //Kommentar
 var code = "neuer Code";
+print(code);
+
 print("value ", code);
 print("code = ",code);
