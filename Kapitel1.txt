@@ -2,3 +2,4 @@
 //Kommentar
 var code = "neuer Code";
 print(code);
+print("code = ",code);
