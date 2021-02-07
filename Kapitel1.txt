@@ -1,8 +1,9 @@
 //Teständerung bla bla bla
 //Kommentar
 var code = "neuer Code";
+var code2 = "zweiter code";
 print(code);
 print("Unde hier noch ein zusatzhinweis!");
 
 print("value ", code);
-print("code = ",code);
+print("cod2e = ",code2);
